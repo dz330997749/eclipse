@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.println("。。。。。");
 		System.out.println("。。。。。");
 		System.out.println("。。。。。");
+		System.out.println("0000000000");
 		System.out.println("===========");   
 		System.out.println("。。。。。");
 		System.out.println("。。。。。");
